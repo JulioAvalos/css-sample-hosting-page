@@ -2,7 +2,6 @@
 
 A sample page to practice CSS Skills! 🎨
 
-
 Web resources: 
 
 - Can I use? (check for browser support): https://caniuse.com/
@@ -15,3 +14,8 @@ Web resources:
 - Intro to CSS 3D Transforms: https://3dtransforms.desandro.com/
 - CSS Timing functions: https://easings.net/
 - Autoprefixer (Browsers support for css properties): https://autoprefixer.github.io/
+- What CSS to prefix? : http://shouldiprefix.com/
+- Polyfills: https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
+- Eliminating Cross-Browser Inconsistencies: Normalize.css or reseting styles manually (specially box-sizing)  ``* { box-sizing: border-box; }``
+- Block Element Modifier, CSS Naming Conventions (BEM, .__--): http://getbem.com/introduction/
+
