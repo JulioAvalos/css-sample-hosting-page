@@ -14,4 +14,4 @@ Web resources:
 - A complete guide to Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
 - Intro to CSS 3D Transforms: https://3dtransforms.desandro.com/
 - CSS Timing functions: https://easings.net/
-
+- Autoprefixer (Browsers support for css properties): https://autoprefixer.github.io/
