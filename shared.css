@@ -125,6 +125,11 @@ main {
   border-bottom: 5px solid white;
 }
 
+.main-nav__item--cta {
+  /* name, duration, delay, times to repeat, direction, retain last value (forwards)  */
+  animation: wiggle 200ms 3s 8 none;
+}
+
 .main-nav__item--cta a,
 .mobile-nav__item--cta a {
   color: white;
@@ -260,4 +265,13 @@ main {
   display: block !important;
   opacity: 1 !important;
   transform: translateY(0) !important;
+}
+
+@keyframes wiggle {
+  from {
+    transform: rotateZ(-10deg);
+  } 
+  to {
+    transform: rotateZ(10deg);
+  }
 }
